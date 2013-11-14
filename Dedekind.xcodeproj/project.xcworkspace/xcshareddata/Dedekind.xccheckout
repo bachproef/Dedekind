@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8CE8FFEB-474C-48A0-8CD1-6864720FE2B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dedekind</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>88AC243D-FBC0-4FEA-ACB3-FDEEC3A72756</key>
+		<string>https://github.com/bachproef/Dedekind.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dedekind.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>88AC243D-FBC0-4FEA-ACB3-FDEEC3A72756</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bachproef/Dedekind.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>88AC243D-FBC0-4FEA-ACB3-FDEEC3A72756</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>88AC243D-FBC0-4FEA-ACB3-FDEEC3A72756</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dedekind</string>
+		</dict>
+	</array>
+</dict>
+</plist>
